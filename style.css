@@ -61,7 +61,7 @@ p {
     color: #ff9800;
 }
 
-/* Asegurar que los párrafos también cambian a blanco */
+/* Asegurar que los párrafos también cambian a blanc */
 .dark-mode p {
     color: white;
 }
