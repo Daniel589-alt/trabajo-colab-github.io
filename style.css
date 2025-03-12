@@ -42,6 +42,7 @@ p {
     color: #333;
 }
 .dark-mode p,
-.dark-mode strong {
+.dark-mode strong,
+.dark-mode li {
     color: white;
 }
