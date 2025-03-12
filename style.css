@@ -41,26 +41,7 @@ p {
     font-size: 16px;
     color: #333;
 }
-
-.dark-mode {
-    background-color: #222;
-    color: white;
-}
-
-.dark-mode header {
-    background: #333;
-}
-
-.dark-mode main {
-    background: #444;
-    color: white;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
-}
-
-.dark-mode h2 {
-    color: #ff9800;
-}
-
-.dark-mode img {
-    filter: brightness(0.8);
+.dark-mode p,
+.dark-mode strong {
+    color: white;
 }
