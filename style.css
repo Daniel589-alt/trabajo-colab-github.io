@@ -41,7 +41,6 @@ p {
     font-size: 16px;
     color: #333;
 }
-<<<<<<< HEAD
 
 .dark-mode {
     background-color: #222;
@@ -65,9 +64,3 @@ p {
 .dark-mode img {
     filter: brightness(0.8);
 }
-=======
-.dark-mode p,
-.dark-mode strong {
-    color: white;
-}
->>>>>>> feature-js
